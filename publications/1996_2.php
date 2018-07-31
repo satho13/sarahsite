@@ -1,0 +1,1 @@
+“Long  Range Resonance Transfer of Electronic Excitations in Close Packed CdSe  Quantum Dot Solids,” C. R. Kagan, C. B. Murray, and M. G. Bawendi,  Physical Review B, 54, 8633 (1996).<br><br>

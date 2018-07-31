@@ -1,0 +1,1 @@
+“<a href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201001853/abstract" target="_blank" class="para">Device Configurations for Ambipolar Transport in Flexible, Pentacene Transistors</a>,” Sangameshwar Rao Saudari, Yu Jen Lin, Yuming Lai and Cherie R. Kagan, Advanced Materials, <strong>44</strong>, 5063-5068, (2010) <br><br>

@@ -1,0 +1,1 @@
+“Photoconductivity  in CdSe Quantum Dot Solids,” C. A. Leatherdale, C. R. Kagan, N. Y.  Morgan, S. A. Empedocles, M. A. Kastner, and M. G. Bawendi, Physical  Review B, 62, 2669 (2000).<br><br>

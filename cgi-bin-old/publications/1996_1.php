@@ -1,0 +1,1 @@
+“Electronic  Energy Transfer in CdSe Quantum Dot Solids,” C. R. Kagan, C. B. Murray,  M. Nirmal, M. G. Bawendi, Physical Review Letters, 76, 1517 (1996).

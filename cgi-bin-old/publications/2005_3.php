@@ -1,0 +1,1 @@
+“Operational and Environmental Stability  of Pentacene Thin Film Transistors,” C. R. Kagan, A. Afzali, T. O.  Graham, Applied Physics Letters, 86, 193505 (2005).<br><br>

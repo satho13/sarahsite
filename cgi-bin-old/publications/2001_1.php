@@ -1,0 +1,1 @@
+“Colloidal  Synthesis of Nanocrystals and Nanocrystal Superlattices,” C. B. Murray,  S. Sun, W. Gaschler, H. Doyle, T. Betley, C. R. Kagan, IBM Journal of  Research and Development, 45, 47 (2001).

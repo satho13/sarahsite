@@ -1,0 +1,1 @@
+“Electrostatic  Field and Partial Fermi Level Pinning at the Pentacene-SiO2 Interface,”  L. Chen, R. Ludeke, X. Cui, A. G. Schrott, C. R. Kagan, L. E. Brus,  Journal of Physical Chemistry B, 109, 1834 (2005).

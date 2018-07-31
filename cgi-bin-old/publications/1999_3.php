@@ -1,0 +1,1 @@
+“Organic-Inorganic  Hybrid Materials as Semiconducting Channels in Thin-Film Field-Effect  Transistors,” C. R. Kagan, D. B. Mitzi, C. D. Dimitrakopoulos, Science,  286, 945 (1999).<br><br>

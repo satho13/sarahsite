@@ -1,0 +1,1 @@
+"Charge  Generation and Transport in CdSe Semiconductor Quantum Dot Solids,” C.  A. Leatherdale, N. Y. Morgan, C. R. Kagan, S. A. Empedocles, M. G.  Bawendi, M. A. Kastner, MRS Proceedings 571, 191 (1999).

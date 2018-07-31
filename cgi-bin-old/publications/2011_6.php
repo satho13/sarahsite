@@ -1,0 +1,2 @@
+“<a href="http://pubs.acs.org/doi/full/10.1021/cm2019795" target="_blank" class="para">Near-Infrared Absorption of Monodisperse Silver Telluride (Ag2Te) Nanocrystals and Photoconductive Response of Their Self-Assembled Superlattices</a>,” 
+Yu-Wen Liu, Dong-Kyun Ko, Soong Ju Oh, Thomas R. Gordon, Vicky Doan-Nguyen, Taejong Paik, Yijin Kang, Xingchen Ye, Linghua Jin, Cherie R. Kagan, and Christopher B. Murray, <a href="http://pubs.acs.org/journal/cmatex" target=blank">ACS Chemistry of Materials</a>, <b>23</b> (21) 4657-4659, (2011) <br><br>

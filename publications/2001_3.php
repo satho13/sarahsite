@@ -1,0 +1,1 @@
+“Patterning  Organic-Inorganic Thin-Film Transistors Using Microcontact Printed  Templates,” C. R. Kagan, T. L Breen, L. L. Kosbar, Applied Physics  Letters 79 (21), 3536 (2001).<br><br>

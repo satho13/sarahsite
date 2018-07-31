@@ -1,0 +1,1 @@
+“Enforced  One-Dimensional Photoconductivity in Core-Cladding Hexabenzocorenenes,”  Y. S. Cohen, S. Xiao, C. Nuckolls, C. R. Kagan, Nano Letters, 6, 2838  (2006).<br><br>

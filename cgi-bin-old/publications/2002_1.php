@@ -1,0 +1,1 @@
+“An  efficient synthesis of symmetrical oligothiophenes: Synthesis and  transport properties of a soluble sexithiophene derivative,” A. Afzali,  T. L. Breen, C. R. Kagan, Chemistry of Materials, 14(4), 1742 (2002) .

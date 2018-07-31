@@ -1,0 +1,2 @@
+“Molecular Transport Junctions,” edited by C. R. Kagan, M. A. Ratner, MRS Bulletin, Materials Research Society, PA, (2004).<br><br>
+“Thin Film Transistors,” edited by C. R. Kagan, P. S. Andry, Marcell-Dekker, NY, (2003).

@@ -1,0 +1,1 @@
+“Chemically Assisted Directed Assembly of Carbon Nanotubes for the Fabrication of Large-Scale Device Arrays,” G. S. Tulevski, J. Hannon, A. Afzali, Z. Chen, Ph. Avouris, C. R. Kagan, J. American Chemical Society, <strong>129</strong> (39), 11964 (2007)<br><br>

@@ -1,0 +1,1 @@
+“Layer-by-Layer  Growth of Metal-Metal Bonded Supramolecular Thin Films and Its Use in  the Fabrication of Lateral Nanoscale Devices,” C. Lin and C. R. Kagan,  Journal of the American Chemical Society, 125, 336 (2003).<br><br>

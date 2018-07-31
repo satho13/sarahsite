@@ -1,0 +1,1 @@
+“Evaluations  and Considerations for Self-Assembled Monolayer Field-Effect  Transistors,” C. R. Kagan, A. Afzali, R. Martel, L. M. Gignac, P. M.  Solomon, A. Schrott, B. Ek, Nano Letters, 3, 119 (2003).<br><br>

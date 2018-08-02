@@ -12,5 +12,5 @@ $numInstitutions=1;
 $institutionNames[1]="The Cooper Union for the Advancement of Science and Art";
 $degrees[1]="B.E. Chemical Engineering, 2015";
 $picSRC="grouppictures/photostevenneuhaus.jpg";
-$bioText="";
+$bioText="__";
 ?>

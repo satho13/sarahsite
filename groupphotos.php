@@ -433,8 +433,42 @@ include("header.php"); ?>
 						October 20, 2014
 					</div>
 				</td>
+				<td>
+                                        <a href="grouppictures/groupphoto9.jpg" class="highslide" onclick="return hs.expand(this)">
+                                        <img src="grouppictures/groupphoto9.jpg" alt="Highslide JS"
+                                                title="Click to enlarge" width="200" /></a>
+                                        <div class="highslide-caption">
+                                        </div>
+                                </td>
 
 			</tr>
+
+                        <tr valign='top'>
+                                <td>
+                                        <a href="grouppictures/groupphoto10.jpg" class="highslide" onclick="return hs.expand(this)">
+                                        <img src="grouppictures/groupphoto10.jpg" alt="Highslide JS"
+                                                title="Click to enlarge" width="200" /></a>
+                                        <div class="highslide-caption">
+                                                Summer 2017
+                                        </div>
+                                </td>
+                                <!--<td>
+                                        <a href="grouppictures/groupphoto8.jpg" class="highslide" onclick="return hs.expand(this)">
+                                        <img src="grouppictures/groupphoto8.jpg" alt="Highslide JS"
+                                                title="Click to enlarge" width="200" /></a>
+                                        <div class="highslide-caption">
+                                                October 20, 2014
+                                        </div>
+                                </td>
+                                <td>
+                                        <a href="grouppictures/groupphoto9.jpg" class="highslide" onclick="return hs.expand(this)">
+                                        <img src="grouppictures/groupphoto9.jpg" alt="Highslide JS"
+                                                title="Click to enlarge" width="200" /></a>
+                                        <div class="highslide-caption">
+                                        </div>
+                                </td>-->
+
+                        </tr>
 
 
 					</table>

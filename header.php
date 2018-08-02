@@ -69,7 +69,7 @@
 		<tr><td>
 			<table width=100% cellspacing=15 bgcolor='#4b4b4b' ><tr>
 				<td width=59% align='left' valign='center'>
-					<em><img src="grouppictures/groupphoto10.jpg" alt="Group Photo 2016" class="intro" align="center" width=100%></em>
+					<em><img src="grouppictures/groupphoto18.jpg" alt="Group Photo 2018" class="intro" align="center" width=100%></em>
 				<td width=41% align='center' valign='center' bgcolor='white'>
 						<div style='position: absolute; background-color: white; z-index=0;' width=100% height=100%></div>
           				        <div theme-default">

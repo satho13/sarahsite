@@ -62,13 +62,9 @@
 				<p>
 					Masters Students
 					<br>
-            <a href="group.php?member=guannanliu">Guannan Liu</a>
-            <br>
-            <a href="group.php?member=vishalvenkatesh">Vishal Venkatesh</a>
-						<br>
-            <a href="group.php?member=mingyuanchuang">Ming-Yuan Chuang</a>
-						<br>
             <a href="group.php?member=martinsarott">Martin Sarott</a>
+						<br>
+            <a href="group.php?member=kunxue">Kun Xue</a>
 					<br>
 				</p>
 

@@ -120,49 +120,14 @@ elseif($member=="henryshulevitz") { ?>
 
 //<!-- This is Masters Student(s) Information -->
 
-elseif($member=="yaoyu") { ?>
-
-				<? include("profiles/yao_yu.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-<?php }
-elseif($member=="naixinsong") { ?>
-
-				<? include("profiles/niaxin_song.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-elseif($member=="jingsongmeng") { ?>
-
-				<? include("profiles/jingsong_meng.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-elseif($member=="derrickbutler") { ?>
-
-				<? include("profiles/derrick_butler.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-elseif($member=="guannanliu") { ?>
-
-				<? include("profiles/guannan_liu.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-elseif($member=="vishalvenkatesh") { ?>
-
-				<? include("profiles/vishal_venkatesh.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-elseif($member=="mingyuanchuang") { ?>
-
-				<? include("profiles/mingyaun_chuang.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-<?php }
 elseif($member=="martinsarott") { ?>
 
 				<? include("profiles/martin_sarott.php"); ?>
+				<? include("profiles/profile_template.php"); ?>
+<?php }
+elseif($member=="kunxue") { ?>
+
+				<? include("profiles/kun_xue.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
 

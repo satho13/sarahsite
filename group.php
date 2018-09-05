@@ -25,22 +25,9 @@ if ($member==null) { ?>
 
 
 <?php }
-elseif($member=="youngjae") { ?>
-
-				<? include("profiles/youngjae_shin.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
 elseif($member=="mingliang") { ?>
 
 				<? include("profiles/mingliang_zhang.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-
-elseif($member=="pilsung") { ?>
-
-				<? include("profiles/pilsung_jo.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
 
 <?php }
@@ -69,11 +56,7 @@ elseif($member=="ericwong") { ?>
 				<? include("profiles/profile_template.php"); ?>
 
 <?php }
-elseif($member=="wenxiangchen") { ?>
 
-				<? include("profiles/wenxiang_chen.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-<?php }
 elseif($member=="danielstraus") { ?>
 
 				<? include("profiles/daniel_straus.php"); ?>
@@ -109,13 +92,19 @@ elseif($member=="austinkeller") { ?>
 
 				<? include("profiles/austin_keller.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
-				<?php }
+<?php }
 
 elseif($member=="henryshulevitz") { ?>
 
 				<? include("profiles/henry_shulevitz.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
-				<?php }
+<?php }
+
+elseif($member=="sarahthompson") { ?>
+
+				<? include("profiles/sarah_thompson.php"); ?>
+				<? include("profiles/profile_template.php"); ?>
+<?php }
 
 
 //<!-- This is Masters Student(s) Information -->

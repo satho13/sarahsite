@@ -137,7 +137,7 @@ include("header.php"); ?>
 				<td width="<?= $firstCol?>%">&nbsp;</td>
 				<td width="<?= $secondCol?>%">F. Scott Stinner</td>
 				<td width="<?= $thirdCol?>%">Ph.D. in Electrical Engineering, 2017</td>
-				<td width="<?= $fourthCol?>%"></td>
+				<td width="<?= $fourthCol?>%">Seren Industrial Power Supplies</td>
 				<td width="<?= $fifthCol?>%">&nbsp;</td>
 			</tr>
 
@@ -232,9 +232,33 @@ include("header.php"); ?>
 
 			<tr>
 				<td width="<?= $firstCol?>%">&nbsp;</td>
+				<td width="<?= $secondCol?>%">Guannan Liu </td>
+				<td width="<?= $thirdCol?>%">M.S. 2018</td>
+				<td width="<?= $fourthCol?>%">PhD Student, Yale University</td>
+				<td width="<?= $fifthCol?>%">&nbsp;</td>
+			</tr>
+
+			<tr>
+				<td width="<?= $firstCol?>%">&nbsp;</td>
+				<td width="<?= $secondCol?>%">Ming-Yuan Chuang </td>
+				<td width="<?= $thirdCol?>%">M.S. 2018</td>
+				<td width="<?= $fourthCol?>%"></td>
+				<td width="<?= $fifthCol?>%">&nbsp;</td>
+			</tr>
+
+			<tr>
+				<td width="<?= $firstCol?>%">&nbsp;</td>
+				<td width="<?= $secondCol?>%">Vishal Venkatesh </td>
+				<td width="<?= $thirdCol?>%">M.S. 2018</td>
+				<td width="<?= $fourthCol?>%"></td>
+				<td width="<?= $fifthCol?>%">&nbsp;</td>
+			</tr>
+
+			<tr>
+				<td width="<?= $firstCol?>%">&nbsp;</td>
 				<td width="<?= $secondCol?>%">Derrick Butler </td>
 				<td width="<?= $thirdCol?>%">M.S. 2017</td>
-				<td width="<?= $fourthCol?>%">PhD Student</td>
+				<td width="<?= $fourthCol?>%">PhD Student, Penn State University</td>
 				<td width="<?= $fifthCol?>%">&nbsp;</td>
 			</tr>
 

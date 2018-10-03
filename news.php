@@ -1,5 +1,27 @@
 <title>http://kagan.seas.upenn.edu/index.php</title>
 
+<b>9/26/2018:</b><br />
+	<b><a href="publications.php?year=2018">Nanoimprinted chiral plasmonic substrates with three-dimensional nanostructures</a></b>
+	<br><br>
+		Chiral plasmonic metamaterials can have giant optical chirality and be used in bio-sensing and light manipulation. We report a large-area fabrication method to prepare chiral substrates patterned with arrays of multilayer, three-dimensional nanostructures using a combination of nanoimprint lithography and glancing angle deposition. As one typical example, arrays of L-shaped chiral plasmonic nanostructures exhibit giant optical chirality in the infrared region with an experimentally achieved g-factor as high as 0.38. To demonstrate scalability, we fabricated a 1 cm<sup>2</sup> chiral substrate with uniform chiral optical property.
+		<center><img src="images/news20180926.png" width=450 /></center>
+		<p></p>
+
+<b>9/24/2018:</b><br />
+	<b><a href="publications.php?year=2018">Ultrasensitive, Mechanically Responsive Optical Metasurfaces via Strain Amplification</a></b>
+	<br><br>
+		We report a structurally-reconfigurable, optical metasurface constructed by integrating a plasmonic lattice array in the gap between a pair of symmetric microrods that serve to locally amplify the strain created on an elastomeric substrate by an external mechanical stimulus. The strain on the metasurface is amplified by a factor of 1.5 to 15.9 relative to the external strain by tailoring the microrod geometry. The demonstrated mechano-sensitivity of the optical responses of the plasmonic lattice array is a factor of 10 greater than that of state-of-the-art stretchable plasmonic resonator arrays<br><br>
+		<center><img src="images/news20180924.jpg" width=400 /></center>
+		<p></p>
+
+	<b>9/12/2018:</b><br />
+		<b><a href="publications.php?year=2018">Flexible colloidal nanocrystal electronics</a></b>
+		<br><br>
+			Kagan reviews the physics and chemistry of colloidal semiconductor nanocrystals (NCs) that have lead to recent leaps forward in the performance of their field-effect transistors and the device design and fabrication that have allowed the demonstration of flexible colloidal NC integrated circuits. Taking stock of the advances made in the science and engineering of NC systems, challenges and opportunities are presented to develop next-generation, colloidal NC electronic materials and devices, important to their potential in future computational and in Internet of Things applications.<br><br>
+			<center><img src="images/news20180912.jpg" width=400 /></center>
+			<p></p>
+
+
 <b>4/15/2018:</b><br />
 		<b><a href="publications.php?year=2018">3D Nanofabrication via Chemo-Mechanical Transformation of Nanocrystal/Bulk Heterostructures</a></b>
 	<br><br>
@@ -35,7 +57,7 @@
 		<center><img src="images/news20180118.png" width=400 /></center>
 		<p></p>
 
-
+<!-- Old News
 <b>2/27/2017:</b><br />
 		<b><a href="publications.php?year=2017">Unbalanced Hole and Electron Diffusion in Lead Bromide Perovskites</a></b>
 	<br><br>
@@ -122,7 +144,7 @@ with enhanced power conversion and quantum efficiency.
 		<center><img src="images/news20160826.jpg" width=400 /></center>
             <br><br>
 		<p></p>
-<!--
+
 <b>8/9/2016:</b><br />
 		<b><a href="publications.php?year=2016">Roadmap on Optical Metamaterials</a></b>
 	<br><br>

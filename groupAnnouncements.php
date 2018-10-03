@@ -1,8 +1,29 @@
-<b>2/5/18:</b><br/>
+<b>9/30/18:</b><br/>
+<b>Congratulations Martin!</b>
+<br><br>
+	Congratulations to Martin Sarott on completing and outstanding Masters thesis during his 6 month visiting research term from ETHZ. Best wishes, Martin!<br>
+
+<p></p><b>9/10/18:</b><br/>
+<b>Congratulations Scott!</b>
+<br><br>
+	Congratulations and best wishes to Scott Stinner as he starts his new job at Seren IPS.<br>
+
+<p></p><b>9/4/18:</b><br/>
+<b>Congratulations Eric!</b>
+<br><br>
+	Eric Wong has successfully defended his thesis, and is happily on his way to a fellowship in Seattle. Conrats, Eric!<br>
+
+<p></p><b>9/1/18:</b><br/>
+<b>Congratulations Qinghua!</b>
+<br><br>
+	Qinghua Zhao has been selected as a VEIST Graduate Fellow. Congrats, Qinghua!<br>
+
+<p></p><b>2/5/18:</b><br/>
 <b>Congratulations Nuri!</b>
 <br><br>
 	Congratulations and best wishes to Nuri Oh, now Professor of Materials Science and Engineering, Hanyang University.<br>
 
+<!-- Old Anouncements
 <p></p><b>9/5/17:</b><br/>
 
 <b>10/20/17:</b><br/>
@@ -90,7 +111,7 @@
 			<li>Chawit - PhD program in Integrated in Photonic and Electronic Systems at Cambridge University</li>
 		</ul>
 	<br /><p></p>
-<!--
+
        	<b>4/19/2015:</b><br />
 		<b>Congratulations Yu Yao!</b>
 	<br><br>

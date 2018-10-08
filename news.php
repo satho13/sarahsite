@@ -11,7 +11,7 @@
 	<b><a href="publications.php?year=2018">Ultrasensitive, Mechanically Responsive Optical Metasurfaces via Strain Amplification</a></b>
 	<br><br>
 		We report a structurally-reconfigurable, optical metasurface constructed by integrating a plasmonic lattice array in the gap between a pair of symmetric microrods that serve to locally amplify the strain created on an elastomeric substrate by an external mechanical stimulus. The strain on the metasurface is amplified by a factor of 1.5 to 15.9 relative to the external strain by tailoring the microrod geometry. The demonstrated mechano-sensitivity of the optical responses of the plasmonic lattice array is a factor of 10 greater than that of state-of-the-art stretchable plasmonic resonator arrays<br><br>
-		<center><img src="images/news20180924.png" width=550 /></center>
+		<center><img src="images/news20180924.jpg" width=450 /></center>
 		<p></p>
 
 	<b>9/12/2018:</b><br />
@@ -36,7 +36,7 @@
 	<br><br>
 		We construct an angle-independent optical sensor to measure soil moisture by coating hydrogel on top of an ultrathin, plasmonic Au nanorod lattice array. Refractive index changes of the hydrogel upon exposure to moisture are transduced into spectra shifts on the resonances of the array.
         	<br><br>
-		<center><img src="images/news20180306.jpg" width=500 /></center>
+		<center><img src="images/news20180306.png" width=550 /></center>
 		<p></p>
 
 

@@ -8,9 +8,11 @@ $deptLinks[1]="http://www.ese.upenn.edu/";
 $addressInfo="";
 $emailAddress1="neuhaus@";
 $emailaddress2="seas.upenn.edu";
-$numInstitutions=1;
+$numInstitutions=2;
 $institutionNames[1]="The Cooper Union for the Advancement of Science and Art";
 $degrees[1]="B.E. Chemical Engineering, 2015";
+$institutionNames[2]="University of Pennsylvania";
+$degrees[2]="M.S.E. Materials Science & Engineering, 2018";
 $picSRC="grouppictures/photostevenneuhaus.jpg";
 $bioText="";
 ?>

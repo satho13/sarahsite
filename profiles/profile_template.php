@@ -15,12 +15,17 @@
 			<?=$addressInfo ?>
 			<br>
 			<?=$emailAddress1 ?><span style="display:none;">Take that, spambots!</span><?=$emailaddress2 ?>
+			<?php if(isset($numEmails)&&($numEmails == 2)){?>
+				or <?=$emailaddress3 ?><span style="display:none;">Take that, spambots!</span><?=$emailaddress4 ?>
+				<br>
+			<?php } ?>
+
 
 			<br /><br />
-			<?php 
+			<?php
 			if($topTitle=="Undergraduate") {
 				?><div align='center'><h3><font color="#6d0e0e">Current Degrees</font></h3></div><?php
-			} else { 
+			} else {
 				?><div align='center'><h3><font color="#6d0e0e">Educational Background</font></h3></div><?php
 			}
 			?>

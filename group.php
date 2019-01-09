@@ -106,6 +106,12 @@ elseif($member=="sarahthompson") { ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
 
+elseif($member=="jaeyounglee") { ?>
+
+				<? include("profiles/jaeyoung_lee.php"); ?>
+				<? include("profiles/profile_template.php"); ?>
+<?php }
+
 
 //<!-- This is Masters Student(s) Information -->
 

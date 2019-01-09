@@ -57,6 +57,8 @@
 					<br>
 					<a href="group.php?member=sarahthompson">Sarah Thompson</a>
 					<br>
+					<a href="group.php?member=jaeyounglee">Jaeyoung Lee</a>
+					<br>
 				</p>
 
 

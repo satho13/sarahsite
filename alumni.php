@@ -145,7 +145,7 @@ include("header.php"); ?>
 				<td width="<?= $firstCol?>%">&nbsp;</td>
 				<td width="<?= $secondCol?>%">Eric Wong</td>
 				<td width="<?= $thirdCol?>%">Ph.D. in Physics, 2018</td>
-				<td width="<?= $fourthCol?>%"></td>
+				<td width="<?= $fourthCol?>%">Machine Learning Scientist, EchoNous</td>
 				<td width="<?= $fifthCol?>%">&nbsp;</td>
 			</tr>
 

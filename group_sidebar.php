@@ -37,10 +37,6 @@
 				<p>
 					Ph.D. Students
 					<br>
-					<a href="group.php?member=ericwong">Eric Wong</a>
-					<br>
-					<a href="group.php?member=danielstraus">Daniel Straus</a>
-					<br>
 					<a href="group.php?member=leo">Leo Tianshuo Zhao</a>
 					<br>
 					<a href="group.php?member=han">Han Wang</a>

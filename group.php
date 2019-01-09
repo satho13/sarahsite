@@ -49,19 +49,6 @@ elseif($member=="hakjongchoi") { ?>
 
 //<!-- This is Ph.D. Student(s) Information -->
 
-
-elseif($member=="ericwong") { ?>
-
-				<? include("profiles/eric_wong.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
-
-elseif($member=="danielstraus") { ?>
-
-				<? include("profiles/daniel_straus.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-<?php }
 elseif($member=="leo") { ?>
 
 				<? include("profiles/leo_zhao.php"); ?>

@@ -135,6 +135,22 @@ include("header.php"); ?>
 
 			<tr>
 				<td width="<?= $firstCol?>%">&nbsp;</td>
+				<td width="<?= $secondCol?>%">Daniel Straus</td>
+				<td width="<?= $thirdCol?>%">Ph.D. in Chemistry, 2018</td>
+				<td width="<?= $fourthCol?>%">Postdoc, Princeton University</td>
+				<td width="<?= $fifthCol?>%">&nbsp;</td>
+			</tr>
+
+			<tr>
+				<td width="<?= $firstCol?>%">&nbsp;</td>
+				<td width="<?= $secondCol?>%">Eric Wong</td>
+				<td width="<?= $thirdCol?>%">Ph.D. in Physics, 2018</td>
+				<td width="<?= $fourthCol?>%"></td>
+				<td width="<?= $fifthCol?>%">&nbsp;</td>
+			</tr>
+
+			<tr>
+				<td width="<?= $firstCol?>%">&nbsp;</td>
 				<td width="<?= $secondCol?>%">F. Scott Stinner</td>
 				<td width="<?= $thirdCol?>%">Ph.D. in Electrical Engineering, 2017</td>
 				<td width="<?= $fourthCol?>%">Seren Industrial Power Supplies</td>

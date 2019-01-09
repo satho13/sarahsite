@@ -1,7 +1,13 @@
-<b>9/30/18:</b><br/>
+<b>10/31/18:</b><br/>
+<b>Congratulations Daniel!</b>
+<br><br>
+	Congratulations to Daniel on defending his PhD thesis! We wish him the best as he starts a Postdoc at Princeton.<br><br>
+	<img src="images/photos/daniel_defense.jpg" height="65%" width = "65%"/><br>
+
+<p></p><b>9/30/18:</b><br/>
 <b>Congratulations Martin!</b>
 <br><br>
-	Congratulations to Martin Sarott on completing and outstanding Masters thesis during his 6 month visiting research term from ETHZ. Best wishes, Martin!<br>
+	Congratulations to Martin Sarott on completing an outstanding Masters thesis during his 6 month visiting research term from ETHZ. Best wishes, Martin!<br>
 
 <p></p><b>9/10/18:</b><br/>
 <b>Congratulations Scott!</b>

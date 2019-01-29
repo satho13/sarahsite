@@ -3,6 +3,8 @@
 <p></p>
 ><a href="publications.php">All</a>
 <br>
+><a href="publications.php?year=2019">2019</a>
+<br>
 ><a href="publications.php?year=2018">2018</a>
 <br>
 ><a href="publications.php?year=2017">2017</a>

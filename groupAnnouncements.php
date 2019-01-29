@@ -1,7 +1,7 @@
 <b>11/30/18:</b><br/>
 <b>Congratulations Martin!</b>
 <br><br>
-	Congratulations to Martin Sarott on his Masters graduation from ETH and on being awarded the Willi-Studer prize for the best overall grade. We wish him the best of luck as he starts his PhD!<br><br>
+	Congratulations to Martin Sarott on his Masters graduation from ETH and on being awarded the Willi-Studer prize for the best overall grade. We wish him the best of luck as he starts his PhD!<br>
 
 <p></p><b>10/31/18:</b><br/>
 <b>Congratulations Daniel!</b>

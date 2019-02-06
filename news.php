@@ -1,5 +1,12 @@
 <title>http://kagan.seas.upenn.edu/index.php</title>
 
+<b>1/10/2019:</b><br />
+	<b><a href="publications.php?year=2019">Plasmonic Optical and Chiroptical Response of Self-Assembled Au Nanorod Equilateral Trimers</a></b>
+	<br><br>
+		We use template-assisted self-assembly to direct colloidal Au nanorods to form "open" triangular nanorod assemblies. The triangular nanorod arrangement supports magnetic plasmonic modes where electric fields are directed along the triangle perimeter and magnetic field intensity within the triangle's open interior is enhanced. Circumferential displacements of the nanorods impart either a left- or right-handed sense of rotation to the structures, which generates a chiroptical response under unidirectional oblique illumination.<br><br>
+		<center><img src="images/news20190110.jpg" width=450 /></center>
+		<p></p>
+
 <b>9/26/2018:</b><br />
 	<b><a href="publications.php?year=2018">Nanoimprinted chiral plasmonic substrates with three-dimensional nanostructures</a></b>
 	<br><br>

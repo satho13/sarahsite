@@ -1,5 +1,12 @@
 <title>http://kagan.seas.upenn.edu/index.php</title>
 
+<b>2/1/2019:</b><br />
+	<b><a href="publications.php?year=2019">Air-Stable CuInSe<sub>2</sub> Nanocrystal Transistors and Circuits via Post-Deposition Cation Exchange</a></b>
+	<br><br>
+	Most high-performance Nanocrystal (NC) devices and circuits have been achieved using NCs containing toxic elements, which may limit their further device development. We fabricate Al<sub>2</sub>O<sub>3</sub>-encapsulated, air-stable CuInSe<sub>2</sub> NC field-effect transistors (FETs) using a solution-based, post-deposition, sequential cation exchange process with linear (saturation) electron mobilities of 8.2±1.8 cm<sup>2</sup>/Vs (10.5±2.4 cm<sup>2</sup>/Vs) and with current modulation of 10<sup>5</sup>, comparable to that for high-performance Cd-, Pb-, and As-based NC FETs. The CuInSe<sub>2</sub> NC FETs are used as building blocks of integrated inverters to demonstrate their promise for low-cost, low-toxicity NC circuits.<br><br>
+		<center><img src="images/news20190201.png" width=450 /></center>
+		<p></p>
+
 <b>1/10/2019:</b><br />
 	<b><a href="publications.php?year=2019">Plasmonic Optical and Chiroptical Response of Self-Assembled Au Nanorod Equilateral Trimers</a></b>
 	<br><br>

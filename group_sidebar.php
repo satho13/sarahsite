@@ -65,6 +65,10 @@
             <a href="group.php?member=martinsarott">Martin Sarott</a>
 						<br>
             <a href="group.php?member=kunxue">Kun Xue</a>
+						<br>
+            <a href="group.php?member=peinanzhou">Peinan Zhou</a>
+						<br>
+            <a href="group.php?member=chengyangqian">Chengyang Qian</a>
 					<br>
 				</p>
 

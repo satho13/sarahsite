@@ -103,13 +103,22 @@ elseif($member=="jaeyounglee") { ?>
 //<!-- This is Masters Student(s) Information -->
 
 elseif($member=="martinsarott") { ?>
-
 				<? include("profiles/martin_sarott.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
-elseif($member=="kunxue") { ?>
 
+elseif($member=="kunxue") { ?>
 				<? include("profiles/kun_xue.php"); ?>
+				<? include("profiles/profile_template.php"); ?>
+<?php }
+
+elseif($member=="peinanzhou") { ?>
+				<? include("profiles/peinan_zhou.php"); ?>
+				<? include("profiles/profile_template.php"); ?>
+<?php }
+
+elseif($member=="chengyangqian") { ?>
+				<? include("profiles/chengyang_qian.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
 

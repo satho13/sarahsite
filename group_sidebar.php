@@ -77,6 +77,8 @@
 					<br>
 					<a href="group.php?member=bengrau">Ben Grau</a>
 					<br>
+					<a href="group.php?member=sebastianperalta">Sebastian Peralta</a>
+					<br>
 				</p>
 
 

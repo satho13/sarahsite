@@ -131,17 +131,12 @@ elseif($member=="bengrau") { ?>
 				<? include("profiles/ben_grau.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
-elseif($member=="carl") { ?>
 
-				<? include("profiles/carl_ruijter.php"); ?>
+elseif($member=="sebastianperalta") { ?>
+				<? include("profiles/sebastian_peralta.php"); ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
-elseif($member=="elizabeth") { ?>
 
-				<? include("profiles/elizabeth_dresselhaus.php"); ?>
-				<? include("profiles/profile_template.php"); ?>
-
-<?php }
 
 else { ?>
 

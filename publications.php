@@ -23,6 +23,7 @@ if(empty($_GET['year'])){
 if ($year=='2019' || $year==null) { ?>
 <h2><name="intro" id="2019"><font color="#6d0e0e">2019</font></a></h2>
 		<p>
+			<? include("publications/2019_3.php"); ?>
 			<? include("publications/2019_2.php"); ?>
 			<? include("publications/2019_1.php"); ?>
 		</p>

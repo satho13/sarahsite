@@ -1,5 +1,12 @@
 <title>http://kagan.seas.upenn.edu/index.php</title>
 
+<b>2/26/2019:</b><br />
+	<b><a href="publications.php?year=2019">Longer Cations Increase Energetic Disorder in Excitonic 2D Hybrid Perovskites</a></b>
+	<br><br>
+	2D hybrid perovskites are broadly tuneable in structural and optoelectronic properties in part because of the variety of organic cations that can be incorporated into the structure. Even though charge carriers and excitons are confined to the metal-halide layers in Type I 2D hybrid perovskites, we demonstrate that longer organic cations create a more disordered energy landscape in the ground state, which we observe through broader, blue-shifted excitonic absorption spectra. In contrast, polaron formation in the excited state stabilizes a structural and electronic minimum seen by photoluminescence spectra that are largely invariant with cation length.<br><br>
+		<center><img src="images/news20190226.png" width=300 /></center>
+		<p></p>
+
 <b>2/1/2019:</b><br />
 	<b><a href="publications.php?year=2019">Air-Stable CuInSe<sub>2</sub> Nanocrystal Transistors and Circuits via Post-Deposition Cation Exchange</a></b>
 	<br><br>

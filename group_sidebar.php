@@ -62,6 +62,8 @@
 				<p>
 					Masters Students
 					<br>
+	    <a href="group.php?member=yuxuanguo">Yuxuan Guo</a>
+						<br>
             <a href="group.php?member=martinsarott">Martin Sarott</a>
 						<br>
             <a href="group.php?member=kunxue">Kun Xue</a>

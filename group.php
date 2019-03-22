@@ -122,6 +122,11 @@ elseif($member=="chengyangqian") { ?>
 				<? include("profiles/profile_template.php"); ?>
 <?php }
 
+elseif($member=="yuxuanguo") { ?>
+			     	<? include("profiles/yuxuan_guo.php"); ?>
+				<? include("profiles/profile_template.php"); ?>
+<?php }
+
 
 
 //<!-- This is Undergrad Student(s) Information -->

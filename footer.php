@@ -1,21 +1,20 @@
 				<div id="bluefooter">
 					<p>
 						<a href="index.php">Home</a> | 
-						<a href="research.php">Research Projects</a> | 
+						<a href="research.php">Research</a> | 
 						<a href="publications.php">Publications</a> | 
-						<a href="group.php">Group</a> | 
-						<a href="courses.php">Courses</a> | 
-						<a href="alumni.php">Alumni</a> |
-						<a href="groupphotos.php">Group Photos</a> | 
-						<a href="funding.php">Funding</a> |
-						<a href="links.php">Links</a> 
+						<a href="group.php">People</a> | 
+						<a href="courses.php">Job Openings</a> | 
+						<a href="alumni.php">News</a> |
+						<a href="groupphotos.php">Gallery</a> | 
+						<a href="funding.php">Education</a> |
 					</p>
 
 
 					<p>
-						Copyright &copy 2015 Kagan Research Group, University of Pennsylvania 
+						Copyright &copy 2015 Quantum Engineering Laboratory, University of Pennsylvania 
 						<br>
-						Electrical & Systems Engineering, Moore Building
+						Electrical & Systems Engineering, Towne Building
 						<br>
 						200 South 33rd Street, Philadelphia, PA 19104
 					</p>

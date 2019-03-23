@@ -1,30 +1,28 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Kagan Research Group</title>
+	<title>Bassett Research Group</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
 	<?php if ($pageNum==1): ?>
-		<META name="description" content="Group page for Professor Cherie R. Kagan.">
+		<META name="description" content="Group page for Professor Lee Bassett">
 	<?php elseif ($pageNum==2): ?>
-		<META name="description" content="Current research projects in the Kagan Group">
+		<META name="description" content="Current research projects in the Quantum Engineering Laboratory">
 	<?php elseif ($pageNum==3): ?>
-		<META name="description" content="Publications in the Kagan Group">
+		<META name="description" content="Publications in the Quantum Engineering Laboratory">
 	<?php elseif ($pageNum==4): ?>
-		<META name="description" content="Current members of the Kagan Group">
+		<META name="description" content="Current members of the Quantum Engineering Laboratory">
 	<?php elseif ($pageNum==5): ?>
-		<META name="description" content="Courses offered by Professor Cherie Kagan">
+		<META name="description" content="Job openings in the Quantum Engineering Laboratory">
 	<?php elseif ($pageNum==6): ?>
-		<META name="description" content="Past Kagan Group members">
+		<META name="description" content="News in the Quantum Engineering Laboratory">
 	<?php elseif ($pageNum==7): ?>
 		<META name="description" content="Group photos">
 	<?php elseif ($pageNum==8): ?>
-		<META name="description" content="Funding sources for the Kagan Lab">
-	<?php elseif ($pageNum==9): ?>
-		<META name="description" content="Relevant links">
+		<META name="description" content="Education and outreach in the Quantum Engineering Laboratory">
 	<?php endif; ?>	
 
-	<META name="keywords" content="cherie kagan, cherie, kagan, cherie r kagan, cherie r. kagan, cherie penn, cherie upenn, cherie kagan upenn, kagan penn, kagan upenn, materials science, cherie mit, cherie kagan mit, kagan mit, cherie r kagan mit">
+	<META name="keywords" content="lee bassett, lee, bassett, lee penn, lee upenn, lee bassett upenn, bassett penn, bassett upenn, materials science, quantum, quantum engineering, quantum upenn, quantum penn">
 
 	<link href="style.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="nivo-slider/themes/default/default.css" type="text/css" media="screen" />
@@ -53,10 +51,10 @@
 
 <table style="margin: 0px;" width=100% cellspacing="0" cellpadding="0" >
 	<tr><td>
-		<table width=100% cellspacing=15 bgcolor='#01256e' ><tr>
+		<table width=70% align="center" cellspacing=15 bgcolor='#ffffff' ><tr>
 			<td width=60% align='left'>
-				<span align='left' style="color: #f1f1f1; font-size: 32px; margin-left:20px; "  >Cherie R Kagan Research Group</span>
-				<p align='left' style="color: #f1f1f1; font-size: 20px; margin-left:20px;">Electrical and Systems Engineering - Chemistry - Materials Science and Engineering</p>
+				<span align='left' style="color: #000000; font-size: 32px; margin-left:0px; "  >Quantum Engineering Laboratory</span>
+				<!--<p align='left' style="color: #f1f1f1; font-size: 20px; margin-left:20px;">Electrical and Systems Engineering - Physics</p>-->
 
 			<td width=20% align='right'>
           			<a href="http://www.upenn.edu/" id="logo" style="background-color:rgba(255,0,0,0);">
@@ -67,21 +65,23 @@
 	</td></tr>
 	<?php if ($pageNum==1) { ?>
 		<tr><td>
-			<table width=100% cellspacing=15 bgcolor='#4b4b4b' ><tr>
-				<td width=59% align='left' valign='center'>
-					<em><img src="grouppictures/groupphoto18.jpg" alt="Group Photo 2018" class="intro" align="center" width=100%></em>
-				<td width=41% align='center' valign='center' bgcolor='white'>
+			<table width=70% cellspacing=15 bgcolor='#ffffff' align='center'><tr>
+				<td width=40% align='left' valign='top'>
+					<!--<em><img src="sitepictures/bench.jpg" alt="Optics Bench" class="intro" align="center" width=100%></em>-->
+					<span align='left' style="color: #000000; font-size: 25px; font-weight: bold; margin-left:0px; ">Embrace the Quantum Limit</span>
+<span align='left' style="color: #000000; font-size: 18px; margin-left: 10px; ">Our group studies quantum dynamics in nanoscale materials and devices using optics and electronics. We seek to better understand complex quantum mechanical systems, with a goal of developing new technologies for communication, computation, and sensing based on quantum physics.</span>
+				</td>
+				<td width=60% align='center' valign='center' bgcolor='white'>
 						<div style='position: absolute; background-color: white; z-index=0;' width=100% height=100%></div>
           				        <div theme-default">
             						<div id="slider" class="nivoSlider">
-                						<img src="images/Colloidal Nanowire Electronics Rotating.png" alt="" />
-                						<img src="images/Nanocrystal Electronics Rotating_new.png" alt=""/>
-                						<img src="images/Nanocrystal Surface Chemistry Rotating.png" alt=""/>
-                						<img src="images/Nanocrystal Transport Rotating.png" alt=""/>
-                						<img src="images/Optical Metamaterials Rotating.png" alt=""/>
-                						<img src="images/Optoelectronic Materials Rotating.png" alt=""/>
-                						<img src="images/Organic Semiconductors Rotating.png" alt=""/>
-                						<img src="images/Plasmonic Enhancement Rotating.png" alt=""/>
+                						<img src="images/bassetthopper.jpg" alt="" />
+                						<img src="images/bench.jpg" alt=""/>
+                						<img src="images/group.jpg" alt=""/>
+                						<img src="images/hbndefects.jpg" alt=""/>
+                						<img src="images/materialsday.jpg" alt=""/>
+                						<img src="images/metalens.jpg" alt=""/>
+                						<img src="images/metalens.png" alt=""/>
             						</div>
         					</div>
 
@@ -98,19 +98,18 @@
 	<?php } ?>
 
 	<tr><td>
-		<table   width=100% cellpadding=0 cellspacing=0 bgcolor=#6d0e0e><tr>
+		<table   width=100% cellpadding=0 cellspacing=0 bgcolor=#ffffff><tr>
 			<td align='center' >
 				<div id="tabs10">
   					<ul >
 						<li><a href="index.php" ><span>HOME</span></a></li>
           					<li><a href="research.php"><span>Research</span></a></li>
           					<li><a href="publications.php"><span>Publications</span></a></li>
-						<li><a href="group.php"><span>Group</span></a></li>
-						<li><a href="courses.php"><span>Courses</span></a></li>
-          					<li><a href="alumni.php"><span>Alumni</span></a></li>
-						<li><a href="groupphotos.php"><span>Group Photos</span></a></li>
-          					<li><a href="funding.php"><span>Funding</span></a></li>
-						<li><a href="links.php"><span>Links</span></a></li>
+						<li><a href="group.php"><span>People</span></a></li>
+						<li><a href="courses.php"><span>Job Openings</span></a></li>
+          					<li><a href="alumni.php"><span>News</span></a></li>
+						<li><a href="groupphotos.php"><span>Gallery</span></a></li>
+          					<li><a href="funding.php"><span>Education</span></a></li>
  						
   					</ul>
 				</div>

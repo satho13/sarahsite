@@ -1,1 +1,0 @@
-“Organic-Inorganic  Electronics,” D. B. Mitzi, K. Chondroudis, C. R. Kagan, IBM Journal of  Research and Development, 45, 29 (2001).<br><br>

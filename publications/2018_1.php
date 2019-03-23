@@ -1,3 +1,3 @@
-"<a href="http://pubs.acs.org/doi/10.1021/acsnano.7b07602" target="_blank" class="para">The Effect of Dielectric Environment on Doping Efficiency in Colloidal PbSe Nanostructures</a>,"
-Qinghua Zhao, Tianshuo Zhao, Jiacen Guo, Wenxiang Chen, Mingliang Zhang, and Cherie R. Kagan <a href="http://pubs.acs.org/journal/ancac3">ACS NANO</a>, <b>12(2)</b> 1313-1320 (2018)
+"<a href="https://www.mdpi.com/2072-666X/9/9/437" target="_blank" class="para">Nanoimprinted chiral plasmonic substrates with three-dimensional nanostructures</a>,"
+D. A. Hopper, H. J. Shulevitz, and L. C. Bassett. <a href="https://pubs.acs.org/journal/nalefd">Micromachines</a>, <b>9</b> 437 (2018)
 <br><br>

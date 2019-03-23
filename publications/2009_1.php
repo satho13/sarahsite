@@ -1,1 +1,0 @@
-“<a href="http://apl.aip.org/applab/v95/i2/p023301_s1?bypassSSO=1" target="_blank" class="para">Ambipolar transport in solution-deposited pentacene transistors enhanced by molecular engineering of device contacts</a>,”  Sangameshwar Rao Saudari, Paul R. Frail, Cherie R. Kagan , Appl. Phys. Lett, <strong>95</strong>, 023301 (2009)

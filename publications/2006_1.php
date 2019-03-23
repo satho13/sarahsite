@@ -1,1 +1,0 @@
-“Chemical Complementarity in the Contacts  for Nanoscale Organic Field-Effect Transistors,” G. S. Tulevski, Q.  Miao, A. Afzali, T. O. Graham, C. R. Kagan, C. Nuckolls, Journal of the  American Chemical Society, 128, 1788 (2006).

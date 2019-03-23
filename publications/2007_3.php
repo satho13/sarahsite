@@ -1,1 +1,0 @@
-"Alignment, Electronic Properties, Doping, and On-Chip Growth of Colloidal PbSe Nanowires,” D. V. Talapin, C. T. Black, C. R. Kagan, E. V. Shevchenko, A. Afzali, C. B. Murray, J. Phys. Chem. C, <strong>111</strong> (35), 13244 (2007)<br><br>

@@ -1,1 +1,0 @@
-“The Role of Chemical Contacts in Molecular Conductance,” N. D. Lang, C. R. Kagan, Nano Letters, 6, 2955 (2006).<br><br>

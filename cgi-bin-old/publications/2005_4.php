@@ -1,1 +1,0 @@
-“Self-assembly  and Oligomerization of Alkyne-Terminated Molecules on Metal and Oxide  Surfaces,” L. Vyklicky, A. Afzali, C. R. Kagan, Langmuir, 21, 11574  (2005).<br><br>

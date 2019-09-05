@@ -51,16 +51,19 @@
 
 <table style="margin: 0px;" width=100% cellspacing="0" cellpadding="0" >
 	<tr><td>
-		<table width=70% align="center" cellspacing=15 bgcolor='#ffffff' ><tr>
-			<td width=60% align='left'>
-				<span align='left' style="color: #000000; font-size: 32px; margin-left:0px; "  >Quantum Engineering Laboratory</span>
+		<table width=100% align="center" cellspacing=15 bgcolor='#02156e' ><tr>
+			<td width=15%><p></p></td>
+			<td width=35% align='left'>
+				<a href="index.php"><img src="sitepictures/qel_name_only_nobackground.png" alt="" style="height:100px;"/></a>
+				<!--<span align='left' style="color: #000000; font-size: 30px; font-weight: bold; margin-left:0px; ">Quantum Engineering Laboratory</span>-->
 				<!--<p align='left' style="color: #f1f1f1; font-size: 20px; margin-left:20px;">Electrical and Systems Engineering - Physics</p>-->
-
-			<td width=20% align='right'>
+			</td>
+			<td width=35% align='right'>
           			<a href="http://www.upenn.edu/" id="logo" style="background-color:rgba(255,0,0,0);">
 					<img src="images/logo2.png">
 				</a>
 			</td>
+			<td width=15%><p></p></td>
 		</tr></table>
 	</td></tr>
 	<?php if ($pageNum==1) { ?>
@@ -68,8 +71,10 @@
 			<table width=70% cellspacing=15 bgcolor='#ffffff' align='center'><tr>
 				<td width=40% align='left' valign='top'>
 					<!--<em><img src="sitepictures/bench.jpg" alt="Optics Bench" class="intro" align="center" width=100%></em>-->
-					<span align='left' style="color: #000000; font-size: 25px; font-weight: bold; margin-left:0px; ">Embrace the Quantum Limit</span>
-<span align='left' style="color: #000000; font-size: 18px; margin-left: 10px; ">Our group studies quantum dynamics in nanoscale materials and devices using optics and electronics. We seek to better understand complex quantum mechanical systems, with a goal of developing new technologies for communication, computation, and sensing based on quantum physics.</span>
+					<span align='left' style="color: #000000; font-size: 29px; font-weight: bold; margin-left:0px; ">Embrace the Quantum Limit</span>
+<p></p>
+<span align='left' style="color: #000000; font-size: 16.5px; margin-left:0px; line-height: 1.8;">Our group studies quantum dynamics in nanoscale materials and devices. We seek to better understand complex quantum mechanical systems with a goal of developing new technologies for communication, computation, and sensing based on quantum physics.</span>
+</span>
 				</td>
 				<td width=60% align='center' valign='center' bgcolor='white'>
 						<div style='position: absolute; background-color: white; z-index=0;' width=100% height=100%></div>
@@ -77,10 +82,11 @@
             						<div id="slider" class="nivoSlider">
                 						<img src="images/bassetthopper.jpg" alt="" />
                 						<img src="images/bench.jpg" alt=""/>
-                						<img src="images/group.jpg" alt=""/>
-                						<img src="images/hbndefects.jpg" alt=""/>
+								<img src="images/materialsday2019.jpg" alt=""/>
+								<img src="images/hbn-defects-slides.png" alt=""/>
+                						<img src="images/materialsday2019-2.jpg" alt=""/>
                 						<img src="images/materialsday.jpg" alt=""/>
-                						<img src="images/metalens.jpg" alt=""/>
+                						<img src="images/metalens-slides.png" alt=""/>
                 						<img src="images/metalens.png" alt=""/>
             						</div>
         					</div>
@@ -98,7 +104,7 @@
 	<?php } ?>
 
 	<tr><td>
-		<table   width=100% cellpadding=0 cellspacing=0 bgcolor=#ffffff><tr>
+		<table   width=100% cellpadding=0 cellspacing=0 bgcolor=#02156e><tr>
 			<td align='center' >
 				<div id="tabs10">
   					<ul >

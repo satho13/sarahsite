@@ -1,13 +1,10 @@
 <?php $pageNum=2;
 include("header.php"); 
-	$researchArray=array(array("Plasmonic Materials", "Plasmonics thumbnail2.png", "plasmonics.php"),
-	array("Colloidal Semiconductor Nanowires", "nanowire thumbnail.png", "nanowires.php"),
-	array("Surface Chemistry of Nanocrystals", "Nanocrystal Surface Chemistry thumbnail.png", "NCsurfaces.php"),
-	array("Nanocrystal Transport", "Nanocrystal Transport thumbnail2.png", "NCtransport.php"),
-	array("Flexible Nanocrystal Electronics", "Nanocrystal Electronics thumbnail_new.png", "flexible.php"),
-	array("Optoelectronic Materials and Devices", "Optoelectronics thumbnail.png", "optoelectronics.php"),
-	array("Organic Semiconductor Transport", "organic thumbnail.jpg", "organic.php"));
-	$numPages=7;
+	$researchArray=array(array("Defect-bound spins in semiconductors", "ss_defects_cartoon.jpg", "plasmonics.php"),
+	array("Quantum Dynamics in Low-D Materials", "low_D.png", "nanowires.php"),
+	array("Quantum Sensors", "sensors.jpg", "NCsurfaces.php"),
+	array("Diamond metamaterials", "metalens.jpg", "NCtransport.php"));
+	$numPages=4;
 	$numRows=3;
 	$numCols=3;
 	for ($i=0; $i<$numPages; $i++) {

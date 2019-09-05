@@ -1,1 +1,0 @@
-“Understanding  the Molecular Transistor,” P. Solomon, C. R. Kagan in Future Trends in  Microelectronics: The Nano, the Giga, and the Ultra, edited by S.  Luryi, J. Xu, A. Zaslavsky, Wiley, NY (2004), p.168.

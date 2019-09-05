@@ -1,2 +1,0 @@
-“<a href="http://pubs.acs.org/doi/abs/10.1021/nl202578g" target="_blank" class="para">Thiocyanate-capped PbS nanocubes: ambipolar transport enables quantum dot-based circuits on a flexible substrate</a>,” 
-Weon-kyu Koh , Sangameshwar R Saudari , Aaron T. Fafarman , Cherie R. Kagan , and Christopher B. Murray, <a href="http://pubs.acs.org/journal/nalefd" target=blank">Nano Letters</a>, <b>11</b> (11) 4764–4767, (2011) <br><br>

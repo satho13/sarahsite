@@ -1,3 +1,0 @@
-“<a href="http://www.nature.com/nphoton/journal/vaop/ncurrent/full/nphoton.2012.70.html" target="_blank" class="para">Wrinkles and deep folds as photonic structures in photovoltaics</a>,” 
-Jong Bok Kim, Pilnam Kim, Nicolas C. Pégard, Soong Ju Oh, Cherie R. Kagan, Jason W. Fleischer, Howard A. Stone and Yueh-Lin Loo, <a href="http://www.nature.com/nphoton/index.html" target=blank">Nature Photonics</a>, <b>6</b> 327-332 (2012) 
-<br><br>

@@ -1,1 +1,0 @@
-“Device  Scaling in Sub-100 nm Pentacene FETs,” G. S. Tulevski, A. Afzali, T. O  Graham, C. Nuckolls, C. R. Kagan, Applied Physics Letters, 89, 183101  (2006).<br><br>

@@ -92,7 +92,7 @@ body {
 	  line-height: 1.6em;
 	  color: #666666;
 	  background-color: #011F5B;
-	  border-bottom:1px solid #000000;
+	  border-bottom:1px solid #2F5A85;
 	  }
 
 	#sidecontainer {
@@ -103,7 +103,7 @@ body {
 	  font-size: 11px;
 	  line-height: 1.6em;
 	  color: #666666;
-	  border-bottom:1px solid #000000;
+	  border-bottom:1px solid #2F5A85;
 	  z-index: 1;
 	  }
 
@@ -122,17 +122,17 @@ body {
 	  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	  font-weight: normal;
 	  font-size: 40px;
-	  color: #000000;
+	  color: #01256e;
 	  }
 		
 	h2 {
-	  color: #b3b3b3;
+	  color: #666666;
 	  font-size: 16px;
 	  font-family: Arial, Helvetica, sans-serif;
 	  }
 		
 	a {
-	  color: #b3b3b3;
+	  color: #01256e;
 	  text-decoration: none;
 	  font-weight: bold;
 	  }
@@ -279,11 +279,11 @@ body {
 		
 	#indexcontent p {
 	  padding-bottom: 5px;
-	  border-bottom: 1px solid #000000;
+	  border-bottom: 1px solid #DDDDDD;
 	  }
 	#researchcontent p {
 	  padding-bottom: 5px;
-	  border-bottom: 1px solid #000000;
+	  border-bottom: 1px solid #DDDDDD;
 	  }
 	#bluecontent p {
 	  padding-bottom: 5px;

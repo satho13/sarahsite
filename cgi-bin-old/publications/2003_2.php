@@ -1,1 +1,0 @@
-“Organic-Inorganic  Thin Film Transistors,” D. B. Mitzi, C. R. Kagan in Thin Film  Transistors, edited by C. R. Kagan, P. S. Andry, Marcell-Dekker, NY,  (2003), p. 475.<br><br>

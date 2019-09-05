@@ -1,1 +1,0 @@
-“Submicron  Confocal Raman Imaging of Holograms in Multicomponent Photopolymers,”  C. R. Kagan, T. D. Harris, A. L. Harris, and M. L. Schilling, Journal  of Chemical Physics, 108, 6892 (1998).

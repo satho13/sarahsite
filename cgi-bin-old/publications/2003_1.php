@@ -1,1 +1,0 @@
-“Charge Transport on the  Nanoscale,” D. Adams, L. Brus, C. E. D. Chidsey, S. Creager, C. Creutz,  C. R. Kagan, P. Kamat, M. Lieberman, S. Lindsay, R. A. Marcus, R. M.  Metzger, M. E. Michel-Beyerle, J. R. Miller, M. D. Newton, D. R.  Rolison, O. Sankey, K. S. Schanze, J. Yardley, X. Zhu, Journal of  Physical Chemistry B, 107, 6668 (2003).
